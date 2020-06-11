@@ -1,0 +1,103 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+  background: url("https://cdn.glitch.com/4f9bee95-9d3b-4b84-89e1-56fe27968482%2FIMG-5622%20(1).jpg?v=1591892949252");
+  background-repeat: no-repeat;
+  background-position: ;
+  background-size: cover;
+}
+
+#geez {
+  font-style: italic;
+  font-family: "Londrina Solid", cursive;
+  color: #ff9d00;
+  text-shadow: -1px 0 white, 0 1px black, 1px 0 black, 0 -1px white;
+  font-size: 100px;
+}
+
+.card {
+  margin: 3px;
+  width: 500px;
+}
+
+h5 {
+  font-family: "Metal Mania", cursive;
+}
+
+.oh {
+  font-size: 75px;
+  color: #189ead;
+  text-shadow: -2px 0 #56e632, 0 2px #225c13, 2px 0 #225c13, 0 -2px #56e632;
+}
+
+.yeah {
+  font-size: 75px;
+  color: #00bbff;
+  text-shadow: -2px 0 #ff9d00, 0 2px #784a00, 2px 0 #784a00, 0 -2px #ff9d00;
+}
+
+.card-text {
+  font-size: 25px;
+}
+
+.mee {
+  color: #36bf51;
+  font-family: "Freckle Face", cursive;
+  text-shadow: -1px 0 #0099ff, 0 1px #0060a1, 1px 0 #0060a1, 0 -1px #0099ff;
+}
+
+.mr {
+  font-family: "Bangers", cursive;
+  color: #1fcbff;
+  text-shadow: -1px 0 #a3a3a3, 0 1px #000000, 1px 0 #000000, 0 -1px #a3a3a3;
+}
+
+#input {
+  background-color: #189ead;
+  text-color: #56e632;
+  borders: none;
+  border-radius: ;
+}
+
+button {
+  color: black;
+  border: solid 3px #ffaa00;
+  background-color: #189ead;
+}
+
+button:hover {
+  cursor: pointer;
+  box-shadow: 0 12px 16px 0 #47eb0c, 0 17px 50px 0 #47eb0c;
+  background-color: black;
+  color: #ffaa00;
+  border: solid 5px #189ead;
+}
+
+button:active {
+  transform: translateX(5px);
+}
+
+#search {
+  border-radius: 25px;
+}
+
+#input {
+  border-radius: 25px;
+}
+
+.alert {
+  font-size: 50px;
+ 
+}
+
+#ugh {
+   font-family: 'Luckiest Guy', cursive;
+  color: #189ead;
+  text-shadows: -2px 0 #ffffff, 0 2px #636363, 2px 0 #636363, 0 -2px #ffffff;
+}
+
+#carouselExampleControls {
+  box-shadow: 0 10px 10px 0 #1580a1, 0 10px 10px 0 #1580a1;
+}
