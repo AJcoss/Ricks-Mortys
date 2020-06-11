@@ -103,7 +103,7 @@ function useApiData(data) {
     <h5 class="card-title oh">${results[4].name}</h5>
 <p class="card-text mee">ID: ${results[4].id}</p>
 <p class="card-text mee"> Location: ${results[4].location.name}</p>
-    <p class="card-text me">Origin: ${results[4].origin.name}</p>
+    <p class="card-text mee">Origin: ${results[4].origin.name}</p>
 <p class="card-text mee"> Species: ${results[4].species}</p>
 <p class="card-text mee"> Status: ${results[4].status}</p>
   </div>
